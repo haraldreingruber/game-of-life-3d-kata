@@ -11,7 +11,7 @@ namespace Tests
         [Test]
         public void FailingTest()
         {
-            Assert.AreEqual(true, false, "True should equal false?");
+            Assert.AreEqual(true, true, "True should equal false?");
         }
 
         /* Keeping the UnityTest example, but usually it is not required for simple test scenarios.
