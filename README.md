@@ -25,5 +25,5 @@ Clone this project, open it in Unity and hit the play button to see the provided
 
 ## License
 
-Except where otherwise stated (see [Third-party Assets](Assets/Third-party Assets/)), this code is:
+Except where otherwise stated (see [Third-party Assets](Assets/Third-party%20Assets/)), this code is:
 MIT License
