@@ -17,7 +17,7 @@ This projects implements a game logic stub and the Visualization for Conveys Gam
 1. Any alive cell with more than ten live neighbors dies. ("Overcrowding")
 1. Any dead cell with nine or ten live neighbors becomes a live cell. ("Birth")
 
-*Note:* The current numbers are an idea/suggestion for the first proof-of-concept.
+*Note:* The current numbers are an idea/suggestion for the first proof-of-concept. Please, let me know how they work for you?
 
 ## Where to start?
 
@@ -27,3 +27,10 @@ Clone this project, open it in Unity and hit the play button to see the provided
 
 Except where otherwise stated (see [Third-party Assets](Assets/Third-party%20Assets/)), this code is:
 MIT License
+
+## :pray: Credits
+
+Thanks for supporting this project by allowing me to use your Unity Asset:
+* [@korveen_o](https://korveen.github.io/): [LowPoly Environment Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479)
+* [@AurynSky](https://twitter.com/AurynSky): [Simple Gems Ultimate Animated Customizable Pack](https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764)
+
