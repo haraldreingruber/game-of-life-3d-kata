@@ -22,3 +22,8 @@ This projects implements a game logic stub and the Visualization for Conveys Gam
 ## Where to start?
 
 Clone this project, open it in Unity and hit the play button to see the provided grid visualization. Add/modify test cases in the folder `Assets/Tests/`. Replace `Assets/GameOfLifeProcessorStub.cs` with the actual game logic.
+
+## License
+
+Except where otherwise stated (see [Third-party Assets](Assets/Third-party Assets/)), this code is:
+MIT License
