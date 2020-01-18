@@ -16,6 +16,10 @@ namespace Tests
 
             // Wait a few seconds to ensure the scene starts correctly
             yield return new WaitForSeconds(2.0f);
+
+            // var cell = Object.FindObjectOfType<CellVisualization>();
+            // Assert.That(cell, Is.Not.Null);
+            // Assert.That(cell.gameObject.activeInHierarchy, Is.True);
         }
     }
 }
